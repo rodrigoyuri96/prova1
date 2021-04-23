@@ -1,6 +1,11 @@
 # PROVA 1
 Primeira prova para a turma de vuejs
 
+## Instruções para execução do projeto:
+ * executar o comando **npm install**
+ * após a execução, observar se foi criada a pasta node-modules
+ * em seguida executar npm run serve para executar o projeto e acessar a porta que o terminal indicar. 
+
 CASO DE USO 1 (PRIMEIRA PARTE):
   * O roudaum supermercados utiliza uma tela para cadastrar seus produtos. Um dos seus desenvolvedores pediu demissão sem aviso prévio e acabou abandonando a nova tela de cadastro de produtos pela metade. Contudo, ele deixou uma lista de pendências para guiar os próximos desenvolvedores na implementação das funcionalidades.
   
