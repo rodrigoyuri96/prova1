@@ -16,6 +16,6 @@ CASO DE USO 1 (PRIMEIRA PARTE):
 
 CASO DE USO 1 (SEGUNDA PARTE):
   ## Tabela de produtos:
-   * Na pré-visualização ("Verificação do two-way-data-bind"), quando clicar no elemento da tabela o produto selecionado (Macarrão) deverá ser carregado. 
+   * Na pré-visualização ("Verificação do one-way-data-bind"), quando clicar no elemento da tabela o produto selecionado (Macarrão) deverá ser carregado. 
    * Dica: O esqueleto da função já foi desenhado, só falta a implementação. Nome da função:  "quandoSelecionaLinha()"  
 

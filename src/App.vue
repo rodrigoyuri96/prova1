@@ -28,13 +28,11 @@
           <b-button type="submit" variant="primary">Salvar</b-button>
           <b-button type="reset" variant="danger">Cancelar</b-button>
         </b-form>
-
-
       </b-card-text>
     </b-card>
       <b-card class="mt-3 ml-4" header="Parte 2">
-        <b-card-title>Verificação do two-way-data-binding</b-card-title>
-
+        <b-card-title>Lista de Produtos</b-card-title>
+        <b-card-sub-title>Verificação do one-way-data-binding</b-card-sub-title>
         <pre class="m-0">{{ produtoSelecionado }}</pre>
         <b-card-text>
           <div>
@@ -51,10 +49,6 @@
           </div>
         </b-card-text>
       </b-card>
-
-
-
-
   </div>
 </template>
 
