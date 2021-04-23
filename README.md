@@ -1,7 +1,7 @@
-# prova1
+# PROVA 1
 Primeira prova para a turma de vuejs
 
-CASO DE USO 1:
+CASO DE USO 1 (PRIMEIRA PARTE):
   * O roudaum supermercados utiliza uma tela para cadastrar seus produtos. Um dos seus desenvolvedores pediu demissão sem aviso prévio e acabou abandonando a nova tela de cadastro de produtos pela metade. Contudo, ele deixou uma lista de pendências para guiar os próximos desenvolvedores na implementação das funcionalidades.
   
   ## Tela de Cadastro:
